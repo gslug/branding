@@ -109,9 +109,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.2"
-     inkscape:cx="197.49032"
-     inkscape:cy="261.87771"
+     inkscape:zoom="3.0043662"
+     inkscape:cx="288.7664"
+     inkscape:cy="271.56465"
      inkscape:document-units="px"
      inkscape:current-layer="g3994"
      showgrid="true"
@@ -220,32 +220,32 @@
          sodipodi:type="arc" />
       <text
          xml:space="preserve"
-         style="font-size:39.65917969000000198px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-size:39.11382675000000120px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
          id="text3009"
          sodipodi:linespacing="125%"><textPath
-           xlink:href="#path3061"
-           id="textPath3861"><tspan
-   style="font-size:27.76142502000000079px;fill:#ffffff"
-   id="tspan3011">Greater Seattle</tspan></textPath></text>
+           xlink:href="#path3897"
+           id="textPath3905"><tspan
+   style="font-size:27.37967872999999841px;fill:#ffffff"
+   id="tspan3011">GSLUG</tspan></textPath></text>
       <path
          style="fill:none;stroke:none"
-         d="m 145,1727 c 110,-60 210,0 210,0"
-         id="path3061"
+         d="m 203,1708 c 50,-15 90,0 90,0"
+         id="path3897"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
       <text
          xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-         id="text3864"
+         style="font-size:39.76861571999999967px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         id="text3908"
          sodipodi:linespacing="125%"><textPath
-           xlink:href="#path3874"
-           id="textPath3891"><tspan
-   style="font-size:28px;fill:#ffffff"
-   id="tspan3866">Linux Users Group</tspan></textPath></text>
+           xlink:href="#path3912"
+           id="textPath3926"><tspan
+   style="font-size:27.83803177000000062px;fill:#ffffff"
+   id="tspan3910">Greater Seattle Linux Users Group</tspan></textPath></text>
       <path
          style="fill:none;stroke:none"
-         d="m 130.48038,2101.5196 c 129.51962,80.4804 240,0 240,0"
-         id="path3874"
+         d="m 60,2035 c 110,160 325,120 395,-30"
+         id="path3912"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
     </g>
