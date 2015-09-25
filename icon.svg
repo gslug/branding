@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="500"
@@ -109,9 +108,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.6124924"
-     inkscape:cx="265.02021"
-     inkscape:cy="249.55772"
+     inkscape:zoom="2.802824"
+     inkscape:cx="264.66342"
+     inkscape:cy="203.62458"
      inkscape:document-units="px"
      inkscape:current-layer="g3994"
      showgrid="true"
@@ -209,8 +208,18 @@
          d="m 434.24177,1795.3294 0,25.8783 -1.65645,0 0,4.2505 -8.56357,0 0,1.3439 -5.00063,1.3752 5.68821,4.313 -0.96887,3.4692 -14.50181,7.0321 -6.21953,0 0,6.3446 -4.84435,-1.3127 0,4.1568 -9.21991,0 0.46881,2.094 11.43893,0 4.21928,9.0949 -7.06338,0 6.31329,3.5317 8.43855,0 c 4.81922,18.0993 8.31377,37.6077 10.3763,58.5698 l 4.50056,0 c -1.74493,-18.695 -4.57312,-38.1294 -8.62608,-58.5698 l 9.2199,0 0,58.5698 20.78385,0 c 1.45009,-22.8845 4.03837,-43.1386 7.96975,-58.5698 l 9.2199,0 6.34454,-3.5317 -7.03213,0 4.28179,-9.0949 11.31391,0 0.56257,-2.094 -9.2199,0 0,-4.1568 -4.71934,1.3127 0,-6.3446 -6.4383,0 -14.40805,-7.0321 -0.96888,-3.4692 5.59445,-4.313 -4.90686,-1.3752 0,-1.3439 -8.65733,0 0,-4.2505 -1.65646,0 0,-25.8783 -2.06276,0 z m 5.90699,71.5715 10.53257,0 c -3.32825,17.2833 -5.59467,36.3619 -6.90712,56.132 l -3.62545,0.25 0,-56.382 z"
          style="fill:#ffffff;fill-opacity:1;stroke:none" />
       <path
+         transform="matrix(0.972,0,0,0.972,6.9999999,1667)"
+         d="M 500,250 C 500,388.07119 388.07119,500 250,500 111.92881,500 0,388.07119 0,250 0,111.92881 111.92881,0 250,0 388.07119,0 500,111.92881 500,250 z"
+         sodipodi:ry="250"
+         sodipodi:rx="250"
+         sodipodi:cy="250"
+         sodipodi:cx="250"
+         id="path3205"
+         style="fill:none;stroke:#ffffff;stroke-width:14.40329265999999997;stroke-miterlimit:4;stroke-opacity:0.65490198;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
          style="fill:none;stroke:none"
-         d="m 199,1710 c 50,-15 90,0 90,0"
+         d="m 203,1708 c 50,-15 90,0 90,0"
          id="path3897"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
@@ -222,34 +231,16 @@
          sodipodi:nodetypes="cc" />
       <text
          xml:space="preserve"
-         style="font-size:40.56248856px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-         id="text3873"
-         sodipodi:linespacing="125%"
-         transform="translate(-6,0)"><textPath
-           xlink:href="#path3877"
-           id="textPath3879"
-           style="font-size:36.50623703px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Serif;-inkscape-font-specification:Serif">GSLUG</textPath></text>
-      <path
-         style="fill:none;stroke:none"
-         d="M 189,1709.619 C 261,1682 311.04991,1708.9055 311,1707"
-         id="path3877"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <text
-         xml:space="preserve"
-         style="font-size:40.00381469999999950px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-         id="text3882"
-         sodipodi:linespacing="125%"><textPath
-           xlink:href="#path3886"
-           id="textPath3891"><tspan
-   style="font-size:36.00343322999999884px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Serif;-inkscape-font-specification:Serif;fill:#ffffff"
-   id="tspan3884">Greater Seattle Linux Users Group</tspan></textPath></text>
-      <path
-         style="fill:none;stroke:none"
-         d="m 10,1965 c 105,245 375,250 470,5"
-         id="path3886"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
+         style="font-size:72.42891693px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="122.06464"
+         y="2055.0876"
+         id="text3898"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3900"
+           x="122.06464"
+           y="2055.0876"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#3589d1;fill-opacity:1;font-family:Times New Roman;-inkscape-font-specification:Times New Roman">GSLUG</tspan></text>
     </g>
   </g>
 </svg>
